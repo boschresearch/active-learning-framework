@@ -5,6 +5,6 @@ from alef import __version__
 name = "alef"
 version = __version__
 description = "Active Learning framework"
-url = "https://sourcecode.socialcoding.bosch.com/projects/BCAI_R11/repos/active-learning-framework/browse"
+url = "https://github.com/boschresearch/active-learning-framework"
 
 setup(name=name, version=version, packages=find_packages(exclude=["tests"]), description=description, url=url)
