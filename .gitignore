@@ -1,0 +1,19 @@
+__pycache__/
+data/
+build/
+.vscode
+.idea
+.coverage
+
+*.pyc
+
+*.hypothesis
+*.egg-info/
+
+*.o*
+
+# ignore checkpoint files
+*checkpoint.ipynb
+*checkpoint.py
+conda-configuration.yml
+add_header.py
